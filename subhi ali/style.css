@@ -1,0 +1,32 @@
+*{
+    background-color: #090f25;
+}
+
+.img{
+    height: 200px;
+    border-radius: 100px 100px 100px 100px ;
+    margin-left: 30%;
+    
+}
+.h1{
+    text-align: center;
+    color: white;
+
+}
+.img2{
+    height:40px;
+    margin-left: 100px;
+    border-radius: 14px;
+}
+.img3{
+    height: 40px;
+    margin-left: 60px;
+    border-radius: 10px;
+
+}
+.img4{
+    height: 40px;
+    margin-left: 70px;
+    border-radius: 10px;
+
+}
